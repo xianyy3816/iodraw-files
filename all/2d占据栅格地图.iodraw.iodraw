@@ -101,12 +101,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iFDAOn36HPbCssMy6p_u-33" value="未知栅格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="145" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="173" y="217" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iFDAOn36HPbCssMy6p_u-34" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="538" y="362" as="sourcePoint" />
-            <mxPoint x="565" y="375" as="targetPoint" />
+            <mxPoint x="227" y="232" as="sourcePoint" />
+            <mxPoint x="253" y="218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
