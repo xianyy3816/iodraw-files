@@ -25,10 +25,10 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="345" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-9" value="硬件设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CZ02qCA7PbeXY--bupw2-9" value="数据集划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="375" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-10" value="模型参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CZ02qCA7PbeXY--bupw2-10" value="数据生成器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="415" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-11" value="训练参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
