@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="P3UDeg7vIZjDvtX8CbuT">
-    <mxGraphModel dx="237" dy="230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="588" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,6 +28,9 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-7" value="设置训练参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="345" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CZ02qCA7PbeXY--bupw2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CZ02qCA7PbeXY--bupw2-8" target="CZ02qCA7PbeXY--bupw2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="345" width="80" height="150" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-12" value="数据加载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="345" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZ02qCA7PbeXY--bupw2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CZ02qCA7PbeXY--bupw2-13" target="CZ02qCA7PbeXY--bupw2-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="345" width="80" height="150" as="geometry" />
