@@ -10,8 +10,8 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-2" value="硬件设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="CZ02qCA7PbeXY--bupw2-3" value="模型参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
