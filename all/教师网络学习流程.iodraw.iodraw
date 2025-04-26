@@ -7,8 +7,8 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-1" value="读取配置文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-2" value="设置训练参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="420" width="110" height="40" as="geometry" />
+        <mxCell id="CZ02qCA7PbeXY--bupw2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="110" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
