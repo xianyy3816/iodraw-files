@@ -19,10 +19,10 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-2" value="硬件设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fda744;" vertex="1" parent="1">
           <mxGeometry x="195" y="375" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-3" value="模型参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CZ02qCA7PbeXY--bupw2-3" value="模型参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fda744;" vertex="1" parent="1">
           <mxGeometry x="195" y="415" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-4" value="训练参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CZ02qCA7PbeXY--bupw2-4" value="训练参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fda744;" vertex="1" parent="1">
           <mxGeometry x="195" y="455" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-7" value="设置训练参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
