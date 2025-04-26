@@ -8,7 +8,7 @@
           <mxGeometry x="190" y="345" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-1" value="读取配置文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-2" value="硬件设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="375" width="70" height="30" as="geometry" />
