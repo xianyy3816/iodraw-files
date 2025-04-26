@@ -22,6 +22,21 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-7" value="设置训练参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="345" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CZ02qCA7PbeXY--bupw2-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="355" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CZ02qCA7PbeXY--bupw2-9" value="硬件设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="385" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZ02qCA7PbeXY--bupw2-10" value="模型参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="425" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZ02qCA7PbeXY--bupw2-11" value="训练参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="465" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZ02qCA7PbeXY--bupw2-12" value="设置训练参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="355" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
