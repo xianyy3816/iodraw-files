@@ -34,13 +34,13 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="300" y="345" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-9" value="数据集划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CZ02qCA7PbeXY--bupw2-9" value="数据集划分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#71e269;" vertex="1" parent="1">
           <mxGeometry x="305" y="375" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-10" value="数据生成器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CZ02qCA7PbeXY--bupw2-10" value="数据生成器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#71e269;" vertex="1" parent="1">
           <mxGeometry x="305" y="415" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-11" value="数据加载器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CZ02qCA7PbeXY--bupw2-11" value="数据加载器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#71e269;" vertex="1" parent="1">
           <mxGeometry x="305" y="455" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-12" value="数据加载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
