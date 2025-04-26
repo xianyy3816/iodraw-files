@@ -100,8 +100,8 @@
             <mxPoint x="431" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iFDAOn36HPbCssMy6p_u-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="325" width="60" height="30" as="geometry" />
+        <mxCell id="iFDAOn36HPbCssMy6p_u-33" value="未知栅格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
