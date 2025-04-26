@@ -92,13 +92,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iFDAOn36HPbCssMy6p_u-31" value="占据栅格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="462" y="245" width="60" height="30" as="geometry" />
+          <mxGeometry x="452" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iFDAOn36HPbCssMy6p_u-32" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="458" y="256" as="sourcePoint" />
             <mxPoint x="431" y="264" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iFDAOn36HPbCssMy6p_u-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="325" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
