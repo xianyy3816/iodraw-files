@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CZ02qCA7PbeXY--bupw2-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="80" height="140" as="geometry" />
+          <mxGeometry x="200" y="380" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-1" value="读取配置文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="80" height="40" as="geometry" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-4" value="训练参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CZ02qCA7PbeXY--bupw2-7" value="设置训练参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="288" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
