@@ -55,10 +55,10 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="345" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-23" value="构建模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CZ02qCA7PbeXY--bupw2-23" value="冻结训练" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="375" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CZ02qCA7PbeXY--bupw2-24" value="权重加载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CZ02qCA7PbeXY--bupw2-24" value="解冻训练" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="415" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CZ02qCA7PbeXY--bupw2-25" value="分布式训练设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
