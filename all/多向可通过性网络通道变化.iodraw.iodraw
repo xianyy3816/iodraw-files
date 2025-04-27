@@ -50,7 +50,19 @@
           <mxGeometry x="240" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eyy75OxajSx4LnymlRf3-19" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="250" y="210" width="110" height="30" as="geometry" />
+          <mxGeometry x="250" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyy75OxajSx4LnymlRf3-20" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyy75OxajSx4LnymlRf3-21" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyy75OxajSx4LnymlRf3-22" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyy75OxajSx4LnymlRf3-23" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
