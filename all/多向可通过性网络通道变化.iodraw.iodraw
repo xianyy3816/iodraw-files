@@ -136,6 +136,9 @@
         <mxCell id="eyy75OxajSx4LnymlRf3-45" value="1×1卷积" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="270" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eyy75OxajSx4LnymlRf3-46" value="25×25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="398" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
