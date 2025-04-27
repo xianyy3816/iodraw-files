@@ -17,12 +17,12 @@
           <mxGeometry x="120" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eyy75OxajSx4LnymlRf3-5" value="……" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eyy75OxajSx4LnymlRf3-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eyy75OxajSx4LnymlRf3-1">
+        <mxCell id="eyy75OxajSx4LnymlRf3-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eyy75OxajSx4LnymlRf3-1" target="eyy75OxajSx4LnymlRf3-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="360" as="sourcePoint" />
-            <mxPoint x="230" y="310" as="targetPoint" />
+            <mxPoint x="110" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
