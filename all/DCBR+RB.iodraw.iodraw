@@ -78,8 +78,11 @@
             <mxPoint x="410" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nd90w71J2yyYxY-qSNEs-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;DCBRx&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="nd90w71J2yyYxY-qSNEs-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;HDC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nd90w71J2yyYxY-qSNEs-2" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
