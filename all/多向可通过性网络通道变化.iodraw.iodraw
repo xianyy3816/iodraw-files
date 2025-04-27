@@ -28,6 +28,12 @@
         <mxCell id="eyy75OxajSx4LnymlRf3-7" value="通道数：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="360" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eyy75OxajSx4LnymlRf3-8" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyy75OxajSx4LnymlRf3-9" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="358" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
