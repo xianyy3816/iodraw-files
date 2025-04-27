@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xrZ8AOukvqI6MvQX2K6n-1" value="DCBRx" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xrZ8AOukvqI6MvQX2K6n-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;DCBRx&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="370" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xrZ8AOukvqI6MvQX2K6n-2" value="=" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="xrZ8AOukvqI6MvQX2K6n-4" value="批量归一化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="370" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xrZ8AOukvqI6MvQX2K6n-5" value="ReLU激活函数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="xrZ8AOukvqI6MvQX2K6n-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;ReLU激活函数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410" y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xrZ8AOukvqI6MvQX2K6n-8" value="残差块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
