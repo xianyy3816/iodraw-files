@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="P3UDeg7vIZjDvtX8CbuT">
-    <mxGraphModel dx="276" dy="161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,6 +82,9 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-27" value="训练循环" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bc6ae2;" parent="1" vertex="1">
           <mxGeometry x="525" y="200" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dXodP-eLRD9CBmGDmRZs-1" target="dXodP-eLRD9CBmGDmRZs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dXodP-eLRD9CBmGDmRZs-1" value="读取配置文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="80" height="40" as="geometry" />
         </mxCell>
@@ -97,8 +100,8 @@
         <mxCell id="dXodP-eLRD9CBmGDmRZs-5" value="教师模型初始化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fda744;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="395" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dXodP-eLRD9CBmGDmRZs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.027;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dXodP-eLRD9CBmGDmRZs-1" target="dXodP-eLRD9CBmGDmRZs-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
