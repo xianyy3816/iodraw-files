@@ -82,6 +82,12 @@
         <mxCell id="CZ02qCA7PbeXY--bupw2-27" value="训练循环" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bc6ae2;" parent="1" vertex="1">
           <mxGeometry x="525" y="200" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-1" value="读取配置文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
