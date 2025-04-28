@@ -105,6 +105,42 @@
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;添加可通过性token&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="278" y="340" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-52" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-53" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="304" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-54" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-55" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="316" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-56" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="322" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-57" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="328" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-58" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="357" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-59" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="364" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-60" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="371" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-61" value="……" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="352" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-62" value="128" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-63" value="27×27+1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
