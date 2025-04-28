@@ -196,19 +196,19 @@
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-75" value="……" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="672" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-76" value="128" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-76" value="&lt;font face=&quot;Times New Roman&quot;&gt;128&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="684" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-77" value="27×27+1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-77" value="&lt;font face=&quot;Times New Roman&quot;&gt;27×27+1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="684" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-79" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transformer编码器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="605" y="345" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-80" value="可通过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-80" value="可通过" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="840" y="340" width="53" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-81" value="不可通过" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-81" value="不可通过" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="840" y="390" width="53" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-84" value="&lt;font face=&quot;Times New Roman&quot;&gt;MLP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
