@@ -7,7 +7,7 @@
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-2" value="通道数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
