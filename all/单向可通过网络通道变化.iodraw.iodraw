@@ -37,8 +37,8 @@
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-10" value="8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-12" value="梯度编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
