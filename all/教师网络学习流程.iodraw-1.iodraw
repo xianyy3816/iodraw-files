@@ -92,10 +92,10 @@
           <mxGeometry x="290" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dXodP-eLRD9CBmGDmRZs-4" value="学生模型初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202.5" y="445" width="95" height="30" as="geometry" />
+          <mxGeometry x="202.5" y="490" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dXodP-eLRD9CBmGDmRZs-5" value="教师模型初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="202.5" y="405" width="95" height="30" as="geometry" />
+          <mxGeometry x="202.5" y="450" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
