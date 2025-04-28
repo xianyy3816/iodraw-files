@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="P3UDeg7vIZjDvtX8CbuT">
-    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="398" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,6 +124,21 @@
         </mxCell>
         <mxCell id="dXodP-eLRD9CBmGDmRZs-25" value="设置训练参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="345" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="345" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-31" value="构建模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#70aeff;" vertex="1" parent="1">
+          <mxGeometry x="415" y="375" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-32" value="权重加载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#70aeff;" vertex="1" parent="1">
+          <mxGeometry x="415" y="415" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-33" value="分布式训练设置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#70aeff;" vertex="1" parent="1">
+          <mxGeometry x="415" y="455" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-34" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;训练模型初始化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="345" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
