@@ -186,8 +186,8 @@
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-77" value="27×27+1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="674" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-79" value="&lt;font face=&quot;Times New Roman&quot;&gt;位置编码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="448" y="355" width="50" height="40" as="geometry" />
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-79" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transformer编码器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="598" y="345" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
