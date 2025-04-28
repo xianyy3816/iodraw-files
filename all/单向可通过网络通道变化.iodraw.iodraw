@@ -102,6 +102,9 @@
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-49" value="27×27+1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="490" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9jK6OEsP2Fe6OwnhrpT2-51" value="高度嵌入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
