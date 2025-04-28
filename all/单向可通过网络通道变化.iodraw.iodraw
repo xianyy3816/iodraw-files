@@ -187,7 +187,7 @@
           <mxGeometry x="684" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-79" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transformer编码器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="345" width="50" height="40" as="geometry" />
+          <mxGeometry x="600" y="345" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
