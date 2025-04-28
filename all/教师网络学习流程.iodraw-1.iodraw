@@ -100,8 +100,20 @@
         <mxCell id="dXodP-eLRD9CBmGDmRZs-5" value="教师模型初始化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fda744;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="395" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dXodP-eLRD9CBmGDmRZs-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="355" width="120" height="130" as="geometry" />
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="77.5" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-11" value="数据集划分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#71e269;" vertex="1" parent="1">
+          <mxGeometry x="315" y="107.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-12" value="数据生成器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#71e269;" vertex="1" parent="1">
+          <mxGeometry x="315" y="147.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-13" value="数据加载器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#71e269;" vertex="1" parent="1">
+          <mxGeometry x="315" y="187.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dXodP-eLRD9CBmGDmRZs-14" value="数据加载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="77.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
