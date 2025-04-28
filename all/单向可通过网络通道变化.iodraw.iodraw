@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="0wbNp2LLZKXIy389nusE">
-    <mxGraphModel dx="231" dy="135" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="160" dy="93" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
           <mxGeometry x="354" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;添加可通过性token&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="278" y="340" width="50" height="40" as="geometry" />
+          <mxGeometry x="280" y="340" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-52" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="450" y="360" width="120" height="40" as="geometry" />
@@ -148,7 +148,7 @@
           <mxGeometry x="514" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-65" value="&lt;font face=&quot;Times New Roman&quot;&gt;位置编码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="438" y="345" width="50" height="40" as="geometry" />
+          <mxGeometry x="440" y="345" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jK6OEsP2Fe6OwnhrpT2-66" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="620" y="360" width="120" height="40" as="geometry" />
