@@ -46,6 +46,9 @@
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-14" value="zed2i_lift_camera_optical_frame" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="490" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qM7JMvS3F_PWB0Sa9SX0-15" value="zed2i_base_link" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="610" width="95" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
