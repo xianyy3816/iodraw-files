@@ -57,10 +57,20 @@
           <mxGeometry x="216.25" y="370" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qM7JMvS3F_PWB0Sa9SX0-11" target="qM7JMvS3F_PWB0Sa9SX0-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="470" />
+              <mxPoint x="170" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qM7JMvS3F_PWB0Sa9SX0-11" target="qM7JMvS3F_PWB0Sa9SX0-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="470" />
+              <mxPoint x="-2" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-11" value="zed2i_left_camera_frame" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="430" width="150" height="30" as="geometry" />
@@ -79,6 +89,15 @@
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-15" value="zed2i_imu_link" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="490" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qM7JMvS3F_PWB0Sa9SX0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qM7JMvS3F_PWB0Sa9SX0-24" target="qM7JMvS3F_PWB0Sa9SX0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qM7JMvS3F_PWB0Sa9SX0-24" value="map" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qM7JMvS3F_PWB0Sa9SX0-25" value="odom" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
