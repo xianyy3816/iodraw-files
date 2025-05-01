@@ -38,13 +38,29 @@
           <mxGeometry x="231.25" y="310" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qM7JMvS3F_PWB0Sa9SX0-10" target="qM7JMvS3F_PWB0Sa9SX0-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="279" y="420" />
+              <mxPoint x="195" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qM7JMvS3F_PWB0Sa9SX0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qM7JMvS3F_PWB0Sa9SX0-10" target="qM7JMvS3F_PWB0Sa9SX0-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="279" y="420" />
+              <mxPoint x="375" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-10" value="zed2i_camera_center" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="216.25" y="370" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-11" value="zed2i_left_camera_frame" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qM7JMvS3F_PWB0Sa9SX0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qM7JMvS3F_PWB0Sa9SX0-12" target="qM7JMvS3F_PWB0Sa9SX0-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-12" value="zed2i_right_camera_frame" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="430" width="150" height="30" as="geometry" />
