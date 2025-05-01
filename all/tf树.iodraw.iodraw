@@ -26,18 +26,18 @@
           <mxGeometry x="40" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-8" value="zed2i_link" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="250" width="70" height="30" as="geometry" />
+          <mxGeometry x="247.5" y="250" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-9" value="zed2i_base_link" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="310" width="95" height="30" as="geometry" />
+          <mxGeometry x="235" y="310" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-10" value="zed2i_camera_center" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="370" width="125" height="30" as="geometry" />
+          <mxGeometry x="220" y="370" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qM7JMvS3F_PWB0Sa9SX0-11" value="zed2i_left_camera_frame" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="430" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qM7JMvS3F_PWB0Sa9SX0-12" value="zed2i_left_camera_frame" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qM7JMvS3F_PWB0Sa9SX0-12" value="zed2i_right_camera_frame" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="430" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
