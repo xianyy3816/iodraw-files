@@ -28,8 +28,8 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-9" value="复杂地形可通过性分析基本概念" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="200" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-10" value="基于GPU的高程映射框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
