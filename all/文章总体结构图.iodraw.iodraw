@@ -67,6 +67,9 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-24" value="单&lt;div&gt;向&lt;/div&gt;&lt;div&gt;可&lt;/div&gt;&lt;div&gt;通&lt;/div&gt;&lt;div&gt;过&lt;/div&gt;&lt;div&gt;性&lt;/div&gt;&lt;div&gt;网&lt;/div&gt;&lt;div&gt;络&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="250" width="40" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-25" value="多&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;向&lt;/span&gt;&lt;div&gt;可&lt;/div&gt;&lt;div&gt;通&lt;/div&gt;&lt;div&gt;过&lt;/div&gt;&lt;div&gt;性&lt;/div&gt;&lt;div&gt;网&lt;/div&gt;&lt;div&gt;络&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="252.5" width="40" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
