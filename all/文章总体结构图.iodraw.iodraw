@@ -25,13 +25,13 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-8" value="第二章 复杂地形可通过性分析基础" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="30" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-9" value="复杂地形可通过性分析基本概念" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8abdff;" vertex="1" parent="1">
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-9" value="复杂地形可通过性分析基本概念" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8abdff;strokeColor=#3b72ba;" vertex="1" parent="1">
           <mxGeometry x="315" y="54" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-10" value="基于GPU的高程映射框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8abdff;" vertex="1" parent="1">
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-10" value="基于GPU的高程映射框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8abdff;strokeColor=#3b72ba;" vertex="1" parent="1">
           <mxGeometry x="315" y="84" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-11" value="自监督学习与知识蒸馏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8abdff;" vertex="1" parent="1">
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-11" value="自监督学习与知识蒸馏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8abdff;strokeColor=#3b72ba;" vertex="1" parent="1">
           <mxGeometry x="315" y="114" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
