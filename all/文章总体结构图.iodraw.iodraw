@@ -50,7 +50,7 @@
           <mxGeometry x="212.5" y="260" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-17" value="单向可通过性网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="260" width="120" height="20" as="geometry" />
+          <mxGeometry x="365" y="390" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
