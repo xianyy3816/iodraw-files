@@ -52,8 +52,11 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-17" value="多向可通过性网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="255" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-18" value="高度嵌入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="275" width="20" height="60" as="geometry" />
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;高度嵌入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="290" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;高度嵌入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="300" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
