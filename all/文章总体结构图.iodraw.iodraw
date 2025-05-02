@@ -51,7 +51,10 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-13" value="第三章 多向可通过性地图生成框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="160" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-14" value="方向性通过地图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c681e9;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBd6XUpxMwqxLPSDUZbl-14" target="vBd6XUpxMwqxLPSDUZbl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-14" value="方向性通过地图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="307" y="190" width="86" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-15" value="从模拟中获得单向可通过性标签" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
