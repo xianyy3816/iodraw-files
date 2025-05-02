@@ -46,8 +46,8 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-15" value="从模拟中获得单向可通过性标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="220" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-16" value="单向可通过性网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="255" width="117.5" height="15" as="geometry" />
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="255" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-17" value="多向可通过性网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="255" width="105" height="20" as="geometry" />
