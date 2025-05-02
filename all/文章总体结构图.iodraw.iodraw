@@ -29,7 +29,7 @@
           <mxGeometry x="285" y="200" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-10" value="基于GPU的高程映射框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="310" width="140" height="20" as="geometry" />
+          <mxGeometry x="285" y="230" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
