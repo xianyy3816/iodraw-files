@@ -54,7 +54,7 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-14" value="方向性通过地图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c681e9;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="307" y="190" width="86" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-15" value="从模拟中获得单向可通过性标签" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-15" value="从模拟中获得单向可通过性标签" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="260" y="220" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
