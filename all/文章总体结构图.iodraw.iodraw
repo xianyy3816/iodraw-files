@@ -7,8 +7,14 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-2" value="研究背景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="140" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-3" value="研究背景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="150" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-4" value="研究背景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="200" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
