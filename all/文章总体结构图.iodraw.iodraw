@@ -141,8 +141,8 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-42" value="多向可通过性网络实车部署实验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="500" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-45" value="第五章 总结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="550" width="70" height="20" as="geometry" />
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-45" value="第五章 总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="550" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
