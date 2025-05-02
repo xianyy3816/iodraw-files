@@ -34,7 +34,7 @@
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-11" value="自监督学习与知识蒸馏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8abdff;strokeColor=#3b72ba;" vertex="1" parent="1">
           <mxGeometry x="315" y="114" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBd6XUpxMwqxLPSDUZbl-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="vBd6XUpxMwqxLPSDUZbl-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="vBd6XUpxMwqxLPSDUZbl-13" value="第三章 多向可通过性地图生成框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
