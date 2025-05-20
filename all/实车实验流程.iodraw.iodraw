@@ -10,6 +10,9 @@
         <mxCell id="xs_Z1FDLWmT0Wyn6UXD1-2" value="启动传感器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xs_Z1FDLWmT0Wyn6UXD1-3" value="检查定位和tf树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
