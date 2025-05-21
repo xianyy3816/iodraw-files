@@ -4,22 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TqmKfY-ig4ftp1A7GNRp-1" value="方向性通过地图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqmKfY-ig4ftp1A7GNRp-1" value="方向性通过地图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TqmKfY-ig4ftp1A7GNRp-2" value="多向可通过性地图生成框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="345" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TqmKfY-ig4ftp1A7GNRp-3" value="从模拟中获得单向可通过性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqmKfY-ig4ftp1A7GNRp-3" value="从模拟中获得单向可通过性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="310" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TqmKfY-ig4ftp1A7GNRp-4" value="单向可通过性网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqmKfY-ig4ftp1A7GNRp-4" value="单向可通过性网络" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TqmKfY-ig4ftp1A7GNRp-5" value="多向可通过性网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqmKfY-ig4ftp1A7GNRp-5" value="多向可通过性网络" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TqmKfY-ig4ftp1A7GNRp-6" value="知识蒸馏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TqmKfY-ig4ftp1A7GNRp-6" value="知识蒸馏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TqmKfY-ig4ftp1A7GNRp-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
