@@ -8,6 +8,9 @@
           <mxGeometry x="160" y="290" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IAG6VRqnngandPJ9WLkb-2" value="获取静态数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="275" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IAG6VRqnngandPJ9WLkb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
