@@ -25,10 +25,10 @@
         <mxCell id="TqmKfY-ig4ftp1A7GNRp-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="TqmKfY-ig4ftp1A7GNRp-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TqmKfY-ig4ftp1A7GNRp-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="380" as="sourcePoint" />
-            <mxPoint x="460" y="330" as="targetPoint" />
+            <mxPoint x="490" y="430" as="sourcePoint" />
+            <mxPoint x="540" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
