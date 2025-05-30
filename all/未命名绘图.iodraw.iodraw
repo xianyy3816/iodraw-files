@@ -38,10 +38,26 @@
           <mxGeometry x="440" y="120" width="50.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lOjrvhdWJ5-nz5i9pBoo-12" target="lOjrvhdWJ5-nz5i9pBoo-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="400" />
+              <mxPoint x="230" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lOjrvhdWJ5-nz5i9pBoo-12" target="lOjrvhdWJ5-nz5i9pBoo-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="400" />
+              <mxPoint x="230" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-12" value="推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="380" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lOjrvhdWJ5-nz5i9pBoo-13" target="lOjrvhdWJ5-nz5i9pBoo-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-13" value="合情推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="70" height="40" as="geometry" />
