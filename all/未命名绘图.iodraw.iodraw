@@ -10,8 +10,8 @@
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-2" value="知觉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-3" value="知觉" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="50" height="40" as="geometry" />
+        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-3" value="表象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
