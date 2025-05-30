@@ -38,7 +38,10 @@
           <mxGeometry x="440" y="120" width="50.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-12" value="推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="50" height="40" as="geometry" />
+          <mxGeometry x="160" y="400" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-13" value="合情推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
