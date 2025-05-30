@@ -46,8 +46,11 @@
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-14" value="必然性推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-15" value="合情推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="330" width="70" height="40" as="geometry" />
+        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-15" value="归纳推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-16" value="归纳推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
