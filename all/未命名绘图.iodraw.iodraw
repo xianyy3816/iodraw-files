@@ -37,8 +37,11 @@
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-6" value="想象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="50.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lOjrvhdWJ5-nz5i9pBoo-12" target="lOjrvhdWJ5-nz5i9pBoo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-12" value="推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="400" width="50" height="40" as="geometry" />
+          <mxGeometry x="160" y="380" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-13" value="合情推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="70" height="40" as="geometry" />
@@ -53,7 +56,7 @@
           <mxGeometry x="340" y="360" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-17" value="演绎推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="440" width="70" height="40" as="geometry" />
+          <mxGeometry x="344" y="440" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
