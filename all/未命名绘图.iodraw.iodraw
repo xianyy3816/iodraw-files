@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="e28TZ8jrJ2KJOaZrtv6h">
-    <mxGraphModel dx="407" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="407" dy="274" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,8 +59,14 @@
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lOjrvhdWJ5-nz5i9pBoo-13" target="lOjrvhdWJ5-nz5i9pBoo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lOjrvhdWJ5-nz5i9pBoo-13" target="lOjrvhdWJ5-nz5i9pBoo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-13" value="合情推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lOjrvhdWJ5-nz5i9pBoo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lOjrvhdWJ5-nz5i9pBoo-14" target="lOjrvhdWJ5-nz5i9pBoo-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lOjrvhdWJ5-nz5i9pBoo-14" value="必然性推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="70" height="40" as="geometry" />
