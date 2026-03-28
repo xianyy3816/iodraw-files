@@ -85,7 +85,7 @@
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-28" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;生成式模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="295" y="448.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wXk_3A-5XvS_RT6SdqTk-29" value="代表模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-29" value="优化模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="295" y="498.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-30" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endWidth=10;endSize=1.3790697674418604;startWidth=10;startSize=1.3790697674418604;" edge="1" parent="1" source="wXk_3A-5XvS_RT6SdqTk-29" target="wXk_3A-5XvS_RT6SdqTk-28">
