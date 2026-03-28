@@ -118,7 +118,7 @@
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-38" value="设计问题和解决问题的协同演化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="435.63" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wXk_3A-5XvS_RT6SdqTk-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-40" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="580" as="sourcePoint" />
             <mxPoint x="420" y="580" as="targetPoint" />
@@ -134,6 +134,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="380" as="sourcePoint" />
             <mxPoint x="370" y="380.00499999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-43" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="590" as="sourcePoint" />
+            <mxPoint x="430" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
