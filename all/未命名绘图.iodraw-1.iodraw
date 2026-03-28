@@ -118,16 +118,10 @@
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-38" value="设计问题和解决问题的协同演化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="410" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wXk_3A-5XvS_RT6SdqTk-39" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wXk_3A-5XvS_RT6SdqTk-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="585" as="sourcePoint" />
-            <mxPoint x="420" y="585" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="600" as="sourcePoint" />
-            <mxPoint x="480" y="600" as="targetPoint" />
+            <mxPoint x="370" y="580" as="sourcePoint" />
+            <mxPoint x="430" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
