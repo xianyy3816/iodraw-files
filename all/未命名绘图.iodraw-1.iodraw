@@ -97,9 +97,9 @@
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-31" value="优化模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="567" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="wXk_3A-5XvS_RT6SdqTk-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="430" as="sourcePoint" />
+            <mxPoint x="40" y="640" as="sourcePoint" />
             <mxPoint x="40" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
