@@ -52,6 +52,15 @@
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-18" value="人机交互" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="570" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="170" y="242.5" width="20" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-20" value="初始目标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-21" value="初始问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
