@@ -106,6 +106,12 @@
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-34" value="总体设计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="232.5" width="20" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-35" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="650" as="sourcePoint" />
+            <mxPoint x="50" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
