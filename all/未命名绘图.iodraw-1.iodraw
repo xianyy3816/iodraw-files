@@ -25,6 +25,15 @@
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-8" value="目标功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="320" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-9" value="约束条件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-10" value="目标功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-11" value="目标功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
