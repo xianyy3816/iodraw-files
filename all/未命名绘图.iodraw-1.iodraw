@@ -34,9 +34,6 @@
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-11" value="参数化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="408.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wXk_3A-5XvS_RT6SdqTk-12" value="参数化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="438.75" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
