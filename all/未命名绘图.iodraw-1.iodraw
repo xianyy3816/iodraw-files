@@ -58,7 +58,7 @@
         <mxCell id="wXk_3A-5XvS_RT6SdqTk-20" value="可视化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wXk_3A-5XvS_RT6SdqTk-21" value="初始问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wXk_3A-5XvS_RT6SdqTk-21" value="达成共识" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="590" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
