@@ -31,6 +31,12 @@
         <mxCell id="lIHs2_dHtLE_JPQHNylm-10" value="制定改进措施" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="620" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="lIHs2_dHtLE_JPQHNylm-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="470" as="sourcePoint" />
+            <mxPoint x="290" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
