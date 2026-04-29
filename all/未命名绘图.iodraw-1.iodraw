@@ -10,8 +10,8 @@
         <mxCell id="lIHs2_dHtLE_JPQHNylm-3" value="故障模式识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lIHs2_dHtLE_JPQHNylm-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="lIHs2_dHtLE_JPQHNylm-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="150" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
