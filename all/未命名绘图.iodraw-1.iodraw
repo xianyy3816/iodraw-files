@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lIHs2_dHtLE_JPQHNylm-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="150" height="130" as="geometry" />
+          <mxGeometry x="320" y="440" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lIHs2_dHtLE_JPQHNylm-5" value="影响、原因与控制分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="150" height="20" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lIHs2_dHtLE_JPQHNylm-9" value="风险评估与排序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="584.5" width="150" height="20" as="geometry" />
+          <mxGeometry x="320" y="585" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lIHs2_dHtLE_JPQHNylm-10" value="制定改进措施" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="620" width="150" height="20" as="geometry" />
+          <mxGeometry x="320" y="640" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
