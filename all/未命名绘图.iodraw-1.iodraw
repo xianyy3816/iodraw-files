@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lIHs2_dHtLE_JPQHNylm-2" value="系统与功能分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="150" height="40" as="geometry" />
+          <mxGeometry x="320" y="360" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lIHs2_dHtLE_JPQHNylm-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="lIHs2_dHtLE_JPQHNylm-3" value="故障模式识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
