@@ -13,6 +13,9 @@
         <mxCell id="lIHs2_dHtLE_JPQHNylm-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="150" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="lIHs2_dHtLE_JPQHNylm-5" value="影响、原因与控制分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
