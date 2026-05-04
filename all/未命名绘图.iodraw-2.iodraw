@@ -49,8 +49,8 @@
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-16" value="清洁路径规划不合理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="390" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-17" value="料（Material）：材料性质与零部件质量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="110" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
