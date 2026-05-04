@@ -67,6 +67,12 @@
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-21" value="滤网效果未达预期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="350" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="470" as="sourcePoint" />
+            <mxPoint x="500" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
