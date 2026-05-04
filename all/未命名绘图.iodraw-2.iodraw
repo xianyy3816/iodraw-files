@@ -100,8 +100,8 @@
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-30" value="环（Environment）：外部作业环境" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="310" y="580" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="658" width="50" height="30" as="geometry" />
+        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-31" value="家中毛发过多" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="550" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
