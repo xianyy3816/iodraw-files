@@ -43,6 +43,9 @@
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-14" value="吸力控制算法不合理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="300" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-15" value="避障算法激进" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
