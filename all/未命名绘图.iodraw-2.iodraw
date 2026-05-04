@@ -64,6 +64,9 @@
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-20" value="电池质量不达标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="400" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-21" value="滤网效果未达预期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
