@@ -59,7 +59,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-19" value="塑料件不耐磨" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="278" width="100" height="30" as="geometry" />
+          <mxGeometry x="530" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-20" value="电池质量不达标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
