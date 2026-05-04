@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-3" value="清洁效果差、毛发缠绕、噪音" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="400" width="60" height="80" as="geometry" />
+          <mxGeometry x="640" y="380" width="80" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
