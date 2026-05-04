@@ -109,8 +109,8 @@
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-33" value="极端环境影响传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="265" y="510" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-34" value="测（Measurement）：监控与检测手段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="580" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
