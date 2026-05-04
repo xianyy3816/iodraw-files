@@ -31,8 +31,8 @@
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-10" value="密封失效，导致漏气" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="390" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-11" value="法（Method）：算法与控制策略" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="258" width="200" height="30" as="geometry" />
+        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-12" value="法（Method）：算法与控制策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="340" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
