@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-7" value="风道结构设计不合理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="260" width="150" height="60" as="geometry" />
+          <mxGeometry x="160" y="300" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-9" value="滚刷防缠绕设计不足" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="350" width="115" height="30" as="geometry" />
