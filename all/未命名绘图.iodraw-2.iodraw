@@ -104,7 +104,10 @@
           <mxGeometry x="364" y="550" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-32" value="杂物超过可清扫限制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="638" width="130" height="30" as="geometry" />
+          <mxGeometry x="290" y="460" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RE1Yqa2-qxH8xZ4PTEtk-33" value="极端环境影响传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="668" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
